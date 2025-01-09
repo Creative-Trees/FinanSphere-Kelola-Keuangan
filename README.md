@@ -42,7 +42,6 @@ Before installation, ensure you have:
 
 ```bash
 git clone https://github.com/Creative-Trees/VStudio-Kelola-Keuangan.git
-cd finansphere
 ```
 
 ### 2. Install Dependencies
@@ -132,24 +131,7 @@ finansphere/
   rm -rf node_modules
   npm install
   ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit changes
-   ```bash
-   git commit -m "Description of your feature"
-   ```
-4. Push to branch
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a Pull Request
-
+  
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
